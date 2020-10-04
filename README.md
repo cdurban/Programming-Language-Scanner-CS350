@@ -1,1 +1,2 @@
 # Programming-Language-Scanner-CS350
+This program acts as a programming language scanner, created for my Organization of Programming Languages class. This 'scanner' reads in a line, and finds whether the input is in a pre-defined financial notation.
